@@ -1,0 +1,62 @@
+[
+  {
+    "name": "John Doe",
+    "id": "EMP001",
+    "designation": "Software Engineer",
+    "phone": "123-456-7890"
+  },
+  {
+    "name": "Jane Smith",
+    "id": "EMP002",
+    "designation": "Product Manager",
+    "phone": "987-654-3210"
+  },
+  {
+    "name": "Bob Johnson",
+    "id": "EMP003",
+    "designation": "UX Designer",
+    "phone": "555-123-4567"
+  },
+  {
+    "name": "Emily White",
+    "id": "EMP004",
+    "designation": "Data Scientist",
+    "phone": "333-888-9999"
+  },
+  {
+    "name": "Alex Brown",
+    "id": "EMP005",
+    "designation": "Marketing Specialist",
+    "phone": "777-444-5555"
+  },
+  {
+    "name": "Sarah Green",
+    "id": "EMP006",
+    "designation": "HR Manager",
+    "phone": "222-333-1111"
+  },
+  {
+    "name": "Michael Lee",
+    "id": "EMP007",
+    "designation": "Financial Analyst",
+    "phone": "666-999-7777"
+  },
+  {
+    "name": "Eva Miller",
+    "id": "EMP008",
+    "designation": "Graphic Designer",
+    "phone": "111-222-4444"
+  },
+  {
+    "name": "Daniel Wilson",
+    "id": "EMP009",
+    "designation": "Operations Coordinator",
+    "phone": "444-777-8888"
+  },
+  {
+    "name": "Olivia Taylor",
+    "id": "EMP010",
+    "designation": "Customer Support Representative",
+    "phone": "888-555-6666"
+  }
+]
